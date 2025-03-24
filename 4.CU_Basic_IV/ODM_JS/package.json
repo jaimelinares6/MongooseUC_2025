@@ -1,0 +1,17 @@
+{
+  "name": "mongooseexample",
+  "version": "1.0.0",
+  "description": "ejemplo docente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^7.6.8",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {}
+}
