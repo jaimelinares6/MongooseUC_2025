@@ -1,13 +1,46 @@
-R锽RICA:
-I.	FUNCIONAMIENTO DE INFRAESTRUCTURA: suma : 3 puntos, resta = -10 (Trabajo continuo en clases) . Comprende:
-1)	Instalaci y Funcionamiento de MySQL
-2)	Instalaci y funcionamiento de php
-3)	Programa de PHP aportado por el profesor
-Nota: Supone que el estudiante no ha asistido o trabajado durante el periodo de clases y no se ha preocupado por aprenderlo
-II.	SELECCI郚 DE LA CONSULTA CORRECTA EN MYSQL USANDO ORM: suma: 1 punto, resta 5 puntos (VER ANEXO I)
-Nota: El estudiante puede seleccionar una consulta equivocada en el ORM para ejecutar un ODM que no se corresponde con su examen. Si el ODM es igual al de otro estudiante puede haber sospecha de fraude
-III.	EJECUCI郚 I: Ejecuci correcta del primer bloque de evaluaci: consultas B爏icas y dominio b爏ico de mongoose y MongoDB (Ver Anexo II) => 1 punto
-IV.	EJECUCI橬 II: Ejecuci correcta del segundo bloque de evaluaci: dominio intermedio de mongoose y MongoDB. (Ver Anexo III) => 2 puntos
-V.	EJECUCI橬 III: Ejecuci correcta del tercer bloque de evaluaci: Dominio alto de mongoose y MongoDB en 爎ea parseo e inserci de json. (Ver Anexo IV) 2 puntos
-VI.	EJECUCI橬 IV: Ejecuci correcta del cuarto bloque de evaluaci: Dominio avanzado de mongoose y MongoDB en 爎ea estructura de json. (Ver Anexo V)1 punto
+# 馃搶 R煤brica de Evaluaci贸n
+
+## I. FUNCIONAMIENTO DE INFRAESTRUCTURA (3 puntos)
+馃敼 **Suma:** 3 puntos  
+馃敼 **Resta:** -10 puntos *(Trabajo continuo en clases)*  
+
+### Incluye:
+1. Instalaci贸n y funcionamiento de **MySQL**.
+2. Instalaci贸n y funcionamiento de **PHP**.
+3. Implementaci贸n del programa **PHP** aportado por el profesor.
+
+> **Nota:** Se asume que el estudiante no ha asistido o trabajado durante el per铆odo de clases y no se ha preocupado por aprenderlo.
+
+---
+
+## II. SELECCI脫N DE LA CONSULTA CORRECTA EN MYSQL USANDO ORM (1 punto)
+馃敼 **Suma:** 1 punto  
+馃敼 **Resta:** -5 puntos   
+
+> **Nota:** Si el estudiante selecciona una consulta equivocada en el ORM para ejecutar un ODM que no corresponde con su examen, y este coincide con el de otro estudiante, puede haber sospecha de fraude.
+
+---
+
+## III. EJECUCI脫N I (1 punto)
+馃敼 **Criterio:** Ejecuci贸n correcta del primer bloque de evaluaci贸n.  
+馃敼 **Incluye:** Consultas b谩sicas y dominio b谩sico de **Mongoose** y **MongoDB** .
+
+---
+
+## IV. EJECUCI脫N II (2 puntos)
+馃敼 **Criterio:** Ejecuci贸n correcta del segundo bloque de evaluaci贸n.  
+馃敼 **Incluye:** Dominio intermedio de **Mongoose** y **MongoDB** .
+
+---
+
+## V. EJECUCI脫N III (2 puntos)
+馃敼 **Criterio:** Ejecuci贸n correcta del tercer bloque de evaluaci贸n.  
+馃敼 **Incluye:** Dominio alto de **Mongoose** y **MongoDB** en el 谩rea de **parseo e inserci贸n de JSON** .
+
+---
+
+## VI. EJECUCI脫N IV (1 punto)
+馃敼 **Criterio:** Ejecuci贸n correcta del cuarto bloque de evaluaci贸n.  
+馃敼 **Incluye:** Dominio avanzado de **Mongoose** y **MongoDB** en el 谩rea de **estructura de JSON** .
+
 
