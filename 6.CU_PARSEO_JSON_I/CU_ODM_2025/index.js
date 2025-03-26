@@ -2,7 +2,7 @@
 import mongoose from 'mongoose';
 import {getdata} from './api.js';
 const { Schema, model } = mongoose;
-let uri = 'mongodb://localhost:27017/uni_2025_ejercicio_4';
+let uri = 'mongodb://localhost:27017/uni_2025_ejercicio_6';
 
 // Conectando a MongoDB
 const options = {
